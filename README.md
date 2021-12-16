@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruixiong89
+- 👋 Hi, I’m RuiXiong, or you can call me Ray!
 - 👀 I’m interested in learning more about web development, and data visualization
 - 🌱 I’m currently learning Python
 - 📫 Please reach me at wongruixiong@gmail.com
